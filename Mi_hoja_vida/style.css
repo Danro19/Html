@@ -1,0 +1,24 @@
+body { 
+    background-color: #c3a7da ; 
+}
+
+div {
+    background-color: #928c97;
+    width: 300px;
+    text-align: center;
+}
+
+div img {
+    width: 180px;
+    margin-top: 10px ;
+}
+
+Foto.section {
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+}
+section {
+    display: flex;
+    column-gap: 30px;
+}
